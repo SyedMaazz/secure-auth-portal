@@ -114,15 +114,3 @@ SyedMaazz
 GitHub: @SyedMaazz
 Project: secure-auth-portal
 ⭐ If you found this project helpful, please consider giving it a star!
-
-
-
-## 3. Commit and push:
-
-```bash
-git add README.md
-git commit -m "docs: add comprehensive README documentation"
-git push origin main
-That's it! Your GitHub repository will now display this professional README with all the setup instructions, features, and documentation. 🎉
-
-Tip: You can also add badges at the top for extra polish (build status, license, version, etc.) if you want!
